@@ -12,7 +12,7 @@
             "value": "D1"
         },
         "openAiSku": {
-            "value": "S0"
+            "value": "S1"
         },
         "appGitRepository": {
             "value": "https://github.com/azure-samples/cosmosdb-chatgpt.git"
